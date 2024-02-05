@@ -37,5 +37,7 @@ print("当前工作目录:", os.getcwd())
 input_file_path = os.path.join('.', 'LevelData','Original', 'W', 'W3.txt')  # 输入文件路径，请根据实际情况替换
 output_file_path = os.path.join('.','LevelData','OneLine', 'W', 'W3.txt')  # 输出文件路径，请根据实际情况替换
 
+#todo: 检查兔子数量是否正确, warning 缺少出入口的关卡
+
 # 调用函数
 replace_first_newline(input_file_path, output_file_path)
