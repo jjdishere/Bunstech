@@ -1,2 +1,2 @@
 # Bunstech
-Bunny catching system for Ophaline and Paquerette
+Bunny catching system for Ophéline and Pâquerette
